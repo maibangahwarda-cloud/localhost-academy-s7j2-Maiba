@@ -1,1 +1,3 @@
-Première tâchen
+Reviser Python
+Faire le TD
+Lire le cours
